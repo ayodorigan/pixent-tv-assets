@@ -83,7 +83,7 @@
   {
     "id": "news",
     "name": "News",
-    "thumbnail": "https://i.ytimg.com/vi/CbAWwZ4-yfc/hqdefault.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/KMWcefrAKLg/hqdefault_live.jpg",
     "query": "latest world news",
     "maxResults": 50,
     "path": "news.json",
