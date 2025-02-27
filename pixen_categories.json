@@ -1,11 +1,91 @@
 [
   {
+    "id": "movies",
+    "name": "Movies",
+    "thumbnail": "https://i.ytimg.com/vi/6cBOumjssOQ/hqdefault.jpgImage preview",
+    "query": "full movies English HD",
+    "maxResults": 50,
+    "path": "movies.json",
+    "hasVideos": true
+  },
+  {
+    "id": "cartoons",
+    "name": "Cartoons",
+    "thumbnail": "https://example.com/cartoons.jpgImage preview",
+    "query": "best cartoons for kids full episodes",
+    "maxResults": 50,
+    "path": "cartoons.json"
+  },
+  {
+    "id": "nature",
+    "name": "Nature",
+    "thumbnail": "https://example.com/nature.jpgImage preview",
+    "query": "amazing nature documentaries",
+    "maxResults": 50,
+    "path": "nature.json"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "thumbnail": "https://example.com/sports.jpgImage preview",
+    "query": "best football goals",
+    "maxResults": 50,
+    "path": "sports.json"
+  },
+  {
+    "id": "comedy",
+    "name": "Comedy",
+    "thumbnail": "https://example.com/comedy.jpgImage preview",
+    "query": "funny moments compilation",
+    "maxResults": 50,
+    "path": "comedy.json"
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "thumbnail": "https://example.com/music.jpgImage preview",
+    "query": "top trending songs",
+    "maxResults": 50,
+    "path": "music.json"
+  },
+  {
+    "id": "technology",
+    "name": "Technology",
+    "thumbnail": "https://example.com/technology.jpgImage preview",
+    "query": "latest tech innovations",
+    "maxResults": 50,
+    "path": "technology.json"
+  },
+  {
+    "id": "education",
+    "name": "Education",
+    "thumbnail": "https://example.com/education.jpgImage preview",
+    "query": "educational videos",
+    "maxResults": 50,
+    "path": "education.json"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "thumbnail": "https://example.com/gaming.jpgImage preview",
+    "query": "best gaming moments",
+    "maxResults": 50,
+    "path": "gaming.json"
+  },
+  {
+    "id": "news",
+    "name": "News",
+    "thumbnail": "https://example.com/news.jpgImage preview",
+    "query": "latest world news",
+    "maxResults": 50,
+    "path": "news.json"
+  },
+  {
     "id": "health",
     "name": "Health",
-    "thumbnail": "https://i.ytimg.com/vi/cVSFT-5XbT0/hqdefault.jpg",
+    "thumbnail": "https://example.com/health.jpgImage preview",
     "query": "fitness and wellness",
     "maxResults": 50,
-    "path": "health.json",
-    "hasVideos": true
+    "path": "health.json"
   }
 ]
