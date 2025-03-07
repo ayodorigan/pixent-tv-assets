@@ -1,3 +1,4 @@
 {
-  "enablePlayerTimerBar": true
+  "enablePlayerTimerBar": true,
+  "isTest": true
 }
