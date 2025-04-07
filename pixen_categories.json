@@ -2,7 +2,7 @@
   {
     "id": "health",
     "name": "Health",
-    "thumbnail": "https://example.com/health.jpg",
+    "thumbnail": "https://www.oraro.co.ke/wp-content/uploads/2024/02/Legal-Alerts-2024.png",
     "query": "fitness and wellness",
     "maxResults": 50,
     "path": "health.json"
@@ -19,7 +19,7 @@
   {
     "id": "cartoons",
     "name": "Cartoons",
-    "thumbnail": "https://example.com/cartoons.jpg",
+    "thumbnail": "https://i.ytimg.com/vi/FTHtY7AYnkI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAspAcA4UrmYyfThqQEClsJbpgCYg",
     "query": "best cartoons for kids full episodes",
     "maxResults": 50,
     "path": "cartoons.json"
@@ -27,7 +27,7 @@
   {
     "id": "nature",
     "name": "Nature",
-    "thumbnail": "https://example.com/nature.jpg",
+    "thumbnail": "https://www.wbcsd.org/wp-content/uploads/2023/10/Accelerating-business-along-the-road-to-a-nature-positive-future_i1140.jpg",
     "query": "amazing nature documentaries",
     "maxResults": 50,
     "path": "nature.json"
@@ -35,7 +35,7 @@
   {
     "id": "sports",
     "name": "Sports",
-    "thumbnail": "https://example.com/sports.jpg",
+    "thumbnail": "https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltd84880be9a73cbf7/66857ca26aa9446f4e1cb6bc/Magenta_Page_Chile_1920x1080_1.png",
     "query": "best football goals",
     "maxResults": 50,
     "path": "sports.json"
@@ -43,7 +43,7 @@
   {
     "id": "comedy",
     "name": "Comedy",
-    "thumbnail": "https://example.com/comedy.jpg",
+    "thumbnail": "https://www.premiumbeat.com/blog/wp-content/uploads/2020/02/three-stooges.jpg?w=875&h=490&crop=1",
     "query": "funny moments compilation",
     "maxResults": 50,
     "path": "comedy.json"
@@ -51,7 +51,7 @@
   {
     "id": "music",
     "name": "Music",
-    "thumbnail": "https://example.com/music.jpg",
+    "thumbnail": "https://academy-cdn.wedio.com/2022/05/performance-music-videos-wedio.jpg",
     "query": "top trending songs",
     "maxResults": 50,
     "path": "music.json"
@@ -59,7 +59,7 @@
   {
     "id": "technology",
     "name": "Technology",
-    "thumbnail": "https://example.com/technology.jpg",
+    "thumbnail": "https://techtrendske.co.ke/wp-content/uploads/2023/06/tech-journalism.jpg",
     "query": "latest tech innovations",
     "maxResults": 50,
     "path": "technology.json"
@@ -67,7 +67,7 @@
   {
     "id": "education",
     "name": "Education",
-    "thumbnail": "https://example.com/education.jpg",
+    "thumbnail": "https://www.keloland.com/wp-content/uploads/sites/103/2018/05/13schoolsupplies_51870682_ver1.0-1.jpg",
     "query": "educational videos",
     "maxResults": 50,
     "path": "education.json"
@@ -75,7 +75,7 @@
   {
     "id": "gaming",
     "name": "Gaming",
-    "thumbnail": "https://example.com/gaming.jpg",
+    "thumbnail": "https://images.prismic.io/leetdesk/c5527f47-def9-433c-9cce-23f286dbfea2_Front.jpg?auto=compress,format&rect=0,374,4000,2250&w=1920&h=1080",
     "query": "best gaming moments",
     "maxResults": 50,
     "path": "gaming.json"
@@ -83,7 +83,7 @@
   {
     "id": "news",
     "name": "News",
-    "thumbnail": "https://example.com/news.jpg",
+    "thumbnail": "https://wnyt.com/wp-content/uploads/2025/03/Tom-Llamas-16x9-1.jpg",
     "query": "latest world news",
     "maxResults": 50,
     "path": "news.json"
