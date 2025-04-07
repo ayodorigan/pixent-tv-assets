@@ -10,7 +10,7 @@
   {
     "id": "movies",
     "name": "Movies",
-    "thumbnail": "https://i.ytimg.com/vi/Yx_Yh2SLCHo/hqdefault.jpg",
+    "thumbnail": "https://www.wondermind.com/wp-content/uploads/2024/09/20-Feel-Good-Movies-People-Swear-By-For-Your-Next-Bad-Day.jpg?w=960",
     "query": "full movies English HD",
     "maxResults": 50,
     "path": "movies.json",
